@@ -5,8 +5,8 @@ body {
 }
 
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #A07855FF;
+    color: #D4B996FF;
     padding: 1rem 0;
     text-align: center;
 }
@@ -23,7 +23,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #D4B996FF;
     text-decoration: none;
     font-weight: bold;
 }
@@ -31,7 +31,7 @@ nav ul li a {
 .hero {
     text-align: center;
     padding: 4rem 1rem;
-    background: #f4f4f4;
+    background: #D4B996FF;
 }
 
 .hero-photo {
