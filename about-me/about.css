@@ -22,20 +22,24 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #D4B996FF;
     text-decoration: none;
     font-weight: bold;
 }
 
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #A07855FF;
+    color: #D4B996FF;
     padding: 1rem 0;
 }
 
 h1 {
     text-align: center;
     margin-top: 2rem;
+}
+
+body {
+    background-color: #D4B996FF;
 }
 
 table {
@@ -50,11 +54,11 @@ table td {
 }
 
 table th {
-    background-color: #f4f4f4;
+    background-color: #D4B996FF;
 }
 
 table td {
-    background-color: #fff;
+    background-color: #D4B996FF;
 }
 
 img {
@@ -72,4 +76,8 @@ h2 {
 p {
     margin: 1rem 2rem;
     text-align: justify;
+}
+
+body {
+    background-color: #D4B996FF;
 }
