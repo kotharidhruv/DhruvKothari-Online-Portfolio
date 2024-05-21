@@ -5,7 +5,8 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #A07855FF;
+    color: #D4B996FF;
     padding: 1rem 0;
 }
 
@@ -21,8 +22,12 @@ nav ul li {
     margin: 0 1rem;
 }
 
+body {
+    background-color: #D4B996FF;
+}
+
 nav ul li a {
-    color: #fff;
+    color: #D4B996FF;   
     text-decoration: none;
     font-weight: bold;
 }
